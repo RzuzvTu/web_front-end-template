@@ -68,3 +68,18 @@ body {
     /* 陰影 */
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
+.btn-color-red {
+    color: red !important;
+}
+
+.btn-color-blue {
+    color: blue !important;
+}
+
+.btn-color-green {
+    color: green !important;
+}
+
+.btn-color-purple {
+    color: purple !important;
+}
